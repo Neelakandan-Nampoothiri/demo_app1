@@ -146,7 +146,7 @@ Ready to book a slot ?""",
                   },
                   style: ButtonStyle(
                     backgroundColor: WidgetStatePropertyAll(
-                      const Color.fromARGB(255, 14, 48, 160),
+                      const Color.fromARGB(255, 61, 1, 103),
                     ),
 
                     minimumSize: WidgetStatePropertyAll(Size(400, 100)),
@@ -175,7 +175,7 @@ Ready to book a slot ?""",
                   },
                   style: ButtonStyle(
                     backgroundColor: WidgetStatePropertyAll(
-                      const Color.fromARGB(255, 14, 48, 160),
+                      const Color.fromARGB(255, 61, 1, 103),
                     ),
                     minimumSize: WidgetStatePropertyAll(Size(400, 100)),
                     shape: WidgetStatePropertyAll(
@@ -203,7 +203,7 @@ Ready to book a slot ?""",
                   },
                   style: ButtonStyle(
                     backgroundColor: WidgetStatePropertyAll(
-                      const Color.fromARGB(255, 14, 48, 160),
+                      const Color.fromARGB(255, 61, 1, 103),
                     ),
                     minimumSize: WidgetStatePropertyAll(Size(400, 100)),
                     shape: WidgetStatePropertyAll(
