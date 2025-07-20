@@ -13,8 +13,8 @@ class StartPage extends StatelessWidget {
             children: [
               Container(
                 width: double.infinity,
-                height: 600,
-                margin: EdgeInsets.only(top: 90, right: 10, left: 10),
+                height: 400,
+                margin: EdgeInsets.only(top: 80, right: 10, left: 10),
 
                 child: Column(
                   children: [
@@ -37,11 +37,11 @@ class StartPage extends StatelessWidget {
                         ),
                       ],
                     ),
-                    Image.asset("images/booking image.png"),
+                    Image.asset("images/booking image.png", scale: 2),
                   ],
                 ),
               ),
-              SizedBox(height: 160),
+              SizedBox(height: 100),
               ElevatedButton(
                 style: ButtonStyle(
                   backgroundColor: WidgetStatePropertyAll(
