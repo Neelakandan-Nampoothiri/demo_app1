@@ -13,7 +13,7 @@ class StartPage extends StatelessWidget {
             children: [
               Container(
                 width: double.infinity,
-                height: 400,
+                height: 620,
                 margin: EdgeInsets.only(top: 80, right: 10, left: 10),
 
                 child: Column(
@@ -37,7 +37,7 @@ class StartPage extends StatelessWidget {
                         ),
                       ],
                     ),
-                    Image.asset("images/booking image.png", scale: 2),
+                    Image.asset("images/booking image.png"),
                   ],
                 ),
               ),
