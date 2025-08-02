@@ -1,16 +1,14 @@
-# event_org
+# Event Organizer App
 
-A new Flutter project.
+A Flutter-based event organizer application with smooth, intuitive navigation and a polished frontend.
 
-## Getting Started
+## 🚀 Key Features
 
-This project is a starting point for a Flutter application.
+- **Smooth Navigation** with animated/transitional route handling for a cohesive UX  
+- **Login Page UI** with clear input fields, validation feedback, and loading state  
+- **Custom AppBar** across screens for branding, back-navigation, and action items  
+- **Enhanced ListTiles** for event previews, favorites, and RSVP status with consistent styling  
+- Smooth navigation using route
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
